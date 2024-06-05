@@ -17,7 +17,7 @@ timezone: America/Chicago
 
 title: Sling Tsi Builder Blog # the main title
 
-tagline: Building and Flying is life # it will display as the sub-title
+tagline: Building and Flying is life - N1020W # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Builder blog for building the Sling Tsi kit plane, a 4 seater cross-country cruiser.
@@ -27,10 +27,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://slingtsi.hershamin.me"
 
 github:
-  username: github_username # change to your github username
+  username: hershamin # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: hersh_amin # change to your twitter username
 
 social:
   # Change to your full name.
