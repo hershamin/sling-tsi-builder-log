@@ -6,7 +6,7 @@ categories: [Empennage]
 tags: [inventory]
 ---
 
-We finished inventory for the Empennage kit, found almost all the items in it, except for one, which has been reported to the airplane factory via _Slingshot_. Few parts are fairly scratched up, waiting on an answer to see if I need to order a replacement or not.
+We finished inventory for the Empennage kit, found almost all the items in it, except for one (_Composite Rudder Tip_), which has been reported to the airplane factory via _Slingshot_. Few parts are fairly scratched up (see section below), waiting on an answer to see if I need to order a replacement or not.
 
 ## Organizing parts
 Different category of parts has been organized in our 2 car garage into few main sections:
@@ -20,6 +20,8 @@ Different category of parts has been organized in our 2 car garage into few main
 The parts for the time being are laid out on the floor of the garage, since I did not have enough time to build the tables, but since the kit is already here, might as well start on it. Also, on a sidenote, airplane parts on an ocean themed epoxy floor looks great!
 
 ## Images
+
+### Organized Parts
 ![empennage spars and ribs](/assets/img/posts/emp-inv-spars-ribs.jpg)
 _Spars and ribs for horizontal and vertical stabilizer as well as elevator and rudder._
 
@@ -31,3 +33,7 @@ _Small parts such as angle brackets, inspection hatch parts, and elevator trim t
 
 ![empennage hardware](/assets/img/posts/emp-inv-hardware.jpg)
 _Builde hardware such as rivets, bushings, and rivnuts._
+
+### Scratched Parts
+![scratch 1](/assets/img/posts/emp-inv-scratch-1.jpg){: .left }
+![scratch 2](/assets/img/posts/emp-inv-scratch-2.jpg){: .right }
