@@ -35,5 +35,5 @@ _Small parts such as angle brackets, inspection hatch parts, and elevator trim t
 _Builde hardware such as rivets, bushings, and rivnuts._
 
 ### Scratched Parts
-![scratch 1](/assets/img/posts/emp-inv-scratch-1.jpg){: .left }
-![scratch 2](/assets/img/posts/emp-inv-scratch-2.jpg){: .right }
+![scratch 1](/assets/img/posts/emp-inv-scratch-1.jpg){: .left w="40%" }
+![scratch 2](/assets/img/posts/emp-inv-scratch-2.jpg){: .right w="40%" }
