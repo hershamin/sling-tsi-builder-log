@@ -2,7 +2,7 @@
 title: Horizontal Stabilizer Spars Assembly Complete
 description: Assembly for Front and Rear spars for the horizontal stabilizer is complete.
 date: 2024-06-15 18:13:00 -0600
-catgories: [Empennage]
+categories: [Empennage]
 tags: [assembly, riveting, tools]
 ---
 
@@ -52,14 +52,15 @@ _Rear spar assembled with rivets, (another view)._
 _My parents were here over the weekend, and this was a great experience for my dad, love it!_
 
 ## Tools
-| Name | Description | Link |
-|:-----|:------------|:-----|
-| Countersinking Tool | Several holes need a countersink, it is critical that the depth and angle of the holes stay uniform throughout, so a tool with a stop is highly recommended. | https://www.amazon.com/Aircraft-Tool-Supply-Countersink-Cutter/dp/B005VR821G/ |
-| Hole Deburring Tool | There will be some holes that need deburring, a 120 degree tool is recommended for aviation pulled rivets. | https://www.amazon.com/Aircraft-Tool-Supply-Dogleg-Deburring/dp/B005VRA7Z0/ |
-| General Deburring Tool | Some edges will need deburring too, best way is to run your finger lightly and ensure it feels smooth to touch without any metal shavings. | https://www.amazon.com/AFA-Tooling-Deburring-Plumbing-Printing/dp/B0CP8F523N/ |
-| Drill rivet attachment | We ended up using this drill attachment for pulling rivets, super reliable so far, might take a little more time than the pneumatic puller, but super cost-effective without needing additional equipment such as a compressor. | https://www.amazon.com/Beaspire-Cordless-Electric-Mandrels-Assorted/dp/B0C8SY1VQD/ |
-| Rivet hand puller | There are some places where it is hard for a machine tool to reach for pulling rivets, for that we used this tool. | https://www.amazon.com/Riveter-Interchangeable-Durable-Automotive-Plastic/dp/B08NWXBCX5/ |
-| Metric drill bit set | Using the metric drill bit set, specifically designed for metal is a great value add, especially for widening the dimpled holes, and a few holes that do not perfectly line up. | Harbor Freight |
+
+| Name                    | Description  | Link |
+|:------------------------|:-------------|:-----|
+| Countersinking Tool     | Several holes need a countersink, it is critical that the depth and angle of the holes stay uniform throughout, so a tool with a stop is highly recommended. | https://www.amazon.com/Aircraft-Tool-Supply-Countersink-Cutter/dp/B005VR821G/ |
+| Hole Deburring Tool     | There will be some holes that need deburring, a 120 degree tool is recommended for aviation pulled rivets. | https://www.amazon.com/Aircraft-Tool-Supply-Dogleg-Deburring/dp/B005VRA7Z0/ |
+| General Deburring Tool  | Some edges will need deburring too, best way is to run your finger lightly and ensure it feels smooth to touch without any metal shavings. | https://www.amazon.com/AFA-Tooling-Deburring-Plumbing-Printing/dp/B0CP8F523N/ |
+| Drill rivet attachment  | We ended up using this drill attachment for pulling rivets, super reliable so far, might take a little more time than the pneumatic puller, but super cost-effective without needing additional equipment such as a compressor. | https://www.amazon.com/Beaspire-Cordless-Electric-Mandrels-Assorted/dp/B0C8SY1VQD/ |
+| Rivet hand puller       | There are some places where it is hard for a machine tool to reach for pulling rivets, for that we used this tool. | https://www.amazon.com/Riveter-Interchangeable-Durable-Automotive-Plastic/dp/B08NWXBCX5/ |
+| Metric drill bit set    | Using the metric drill bit set, specifically designed for metal is a great value add, especially for widening the dimpled holes, and a few holes that do not perfectly line up. | Harbor Freight |
 
 ### Clecos
 This deserves its own sub-section, it is super useful tool in the industry in general, for a kit build, you will go through a lot of them, they are **critical** in holding the parts together while **riveting**. It goes without saying, but be sure to use some cleco pliers with them.
