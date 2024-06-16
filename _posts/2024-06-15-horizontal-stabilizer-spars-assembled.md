@@ -1,6 +1,6 @@
 ---
 title: Horizontal Stabilizer Spars Assembly Complete
-descripton: Assembly for Front and Rear spars for the horizontal stabilizer is complete.
+description: Assembly for Front and Rear spars for the horizontal stabilizer is complete.
 date: 2024-06-15 18:13:00 -0600
 catgories: [Empennage]
 tags: [assembly, riveting, tools]
@@ -36,7 +36,7 @@ For assembling the rear spar, it was mostly using clecos and riveting, basically
 
 ### Deburring some holes and edges
 We had to debur some holes and edges where we noticed to some burs while running fingers through them. Refer to the image below for a deburring reference. Also, the _tools_ section has some details on what was used for this process.
-|[rear spar deburring](/assets/img/posts/emp-rear-spar-deburring.jpg)
+![rear spar deburring](/assets/img/posts/emp-rear-spar-deburring.jpg)
 _Rear spar deburring using the hole tool._
 
 ### Assembly images
@@ -63,9 +63,10 @@ _My parents were here over the weekend, and this was a great experience for my d
 
 ### Clecos
 This deserves its own sub-section, it is super useful tool in the industry in general, for a kit build, you will go through a lot of them, they are **critical** in holding the parts together while **riveting**. It goes without saying, but be sure to use some cleco pliers with them.
-| Size | Color | Qty |
-|:-----|:------|:----|
-| 3/32 | Zinc | 20+ |
-| 1/8 | Copper | 300+ |
-| 5/32 | Black | 100+ |
-| 3/16 | Brass | 20+ |
+
+| Size | Color  | Qty  |
+|:-----|:-------|:-----|
+| 3/32 | Zinc   | 20+  |
+| 1/8  | Copper | 300+ |
+| 5/32 | Black  | 100+ |
+| 3/16 | Brass  | 20+  |
