@@ -2,8 +2,7 @@
 title: Starting Preparation
 description: Starting prep in our 2 car garage in anticipation of the kit delivery this week.
 date: 2024-06-04 20:24:00 -0600
-categories: [Preparation]
-tags: [inventory]
+tags: [preparation]
 ---
 
 This is our first blog post, mostly talking about a little background and starting preparation of our 2 car garage.
