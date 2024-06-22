@@ -22,18 +22,18 @@ The parts for the time being are laid out on the floor of the garage, since I di
 ## Images
 
 ### Organized Parts
-![empennage spars and ribs](/assets/img/posts/emp-inv-spars-ribs.jpg)
+![empennage spars and ribs](/assets/img/posts/empennage/inv-spars-ribs.jpg)
 _Spars and ribs for horizontal and vertical stabilizer as well as elevator and rudder._
 
-![empennage skins](/assets/img/posts/emp-inv-skins.jpg)
+![empennage skins](/assets/img/posts/empennage/inv-skins.jpg)
 _Skins and Counterweights for horizontal and vertical stabilizer as well as elevator and rudder._
 
-![empennage small parts](/assets/img/posts/emp-inv-small-parts.jpg)
+![empennage small parts](/assets/img/posts/empennage/inv-small-parts.jpg)
 _Small parts such as angle brackets, inspection hatch parts, and elevator trim tab actuator._
 
-![empennage hardware](/assets/img/posts/emp-inv-hardware.jpg)
+![empennage hardware](/assets/img/posts/empennage/inv-hardware.jpg)
 _Builde hardware such as rivets, bushings, and rivnuts._
 
 ### Scratched Parts
-![scratch 1](/assets/img/posts/emp-inv-scratch-1.jpg){: .left w="40%" }
-![scratch 2](/assets/img/posts/emp-inv-scratch-2.jpg){: .right w="40%" }
+![scratch 1](/assets/img/posts/empennage/inv-scratch-1.jpg)
+![scratch 2](/assets/img/posts/empennage/inv-scratch-2.jpg)
