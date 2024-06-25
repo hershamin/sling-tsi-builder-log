@@ -8,6 +8,9 @@ tags: [dimpling, tools]
 
 We started dimpling for the horizontal stabilizer **ribs**, using the _impact dimpling tool_ from Aircraft Spruce, details regarding the tool is provided in the _Tools_ section at the bottom.
 
+**Update:** Some dimple mishaps have been reported to sling technical and their response is in the relevant sections. Additionally, it was determined that the damage to the _1/8"_ dimple die caused some cracks, which was reported to airplane factory, and a replacement die is on the way.
+
+
 ## Ribs
 While dimpling the ribs using the impact tool, we ran into some mishaps such as the dimples being off-center and also some crack due to the impact getting misaligned for a second. Below images are from how the normal dimples came out.
 ![rib dimples 1](/assets/img/posts/empennage/ribs-dimple-1.jpg)
@@ -21,6 +24,9 @@ _Normal dimpled ribs._
 
 ### Off-center dimples
 Some dimples (images below) came out to be a little off-center, I sent questions to _sling technical_, will update this post when I get some answers.
+
+**Update:** Sling technical department recommended replacing the parts, since the rivet flanges on the skin can protrude a bit.
+
 ![rib dimple off center 1](/assets/img/posts/empennage/ribs-dimple-off-center-1.jpg)
 _Off center dimples on rib._
 ![rib dimple off center 2](/assets/img/posts/empennage/ribs-dimple-off-center-2.jpg)
@@ -28,6 +34,9 @@ _Off center dimples on rib._
 
 ### Cracked dimple
 Very few dimples (images below) came out to be slightly cracked, I sent questions to _sling technical_, will update this post when I get some answers.
+
+**Update:** Sling technical department mentioned that I definitely need to replace these parts.
+
 ![ribs dimple crack](/assets/img/posts/empennage/ribs-dimple-cracks-1.jpg)
 _Crack protruding from the hole which was dimpled._
 
