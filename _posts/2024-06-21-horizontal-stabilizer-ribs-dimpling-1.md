@@ -35,7 +35,7 @@ _Off center dimples on rib._
 ### Cracked dimple
 Very few dimples (images below) came out to be slightly cracked, I sent questions to _sling technical_, will update this post when I get some answers.
 
-**Update:** Sling technical department mentioned that I definitely need to replace these parts.
+**Update:** Sling technical department mentioned that I definitely need to replace these parts. This was reported via _Sling Shot_ to the factory, and replacement for cracked parts is on the way.
 
 ![ribs dimple crack](/assets/img/posts/empennage/ribs-dimple-cracks-1.jpg)
 _Crack protruding from the hole which was dimpled._
