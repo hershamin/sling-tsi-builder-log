@@ -25,7 +25,7 @@ _Normal dimpled ribs._
 ### Off-center dimples
 Some dimples (images below) came out to be a little off-center, I sent questions to _sling technical_, will update this post when I get some answers.
 
-**Update:** Sling technical department recommended replacing the parts, since the rivet flanges on the skin can protrude a bit.
+**Update:** Sling technical department recommended replacing the parts, since the rivet flanges on the skin can protrude a bit. Additionally, it was determined that the dimple die was too big for that opening, so I will grind the edge of the dies a bit, so they fit flat against the hole.
 
 ![rib dimple off center 1](/assets/img/posts/empennage/ribs-dimple-off-center-1.jpg)
 _Off center dimples on rib._
