@@ -10,27 +10,29 @@ We started partially riveting the _ribs_ to the already assembled _spars_ for th
 
 ## Ribs Assembly
 Before riveting the ribs to the spars, they were held together using clecos, check the images below.
-![ribs assembly 1](/assets/img/posts/empennage/ribs-center-assembly-1.jpg)
+![ribs assembly 1](/assets/img/posts/empennage/horizontal_stabilizer/ribs-center-assembly-1.jpg)
 _Center ribs temporary joined with the spars._
-![ribs assembly 2](/assets/img/posts/empennage/ribs-center-assembly-2.jpg)
+![ribs assembly 2](/assets/img/posts/empennage/horizontal_stabilizer/ribs-center-assembly-2.jpg)
 _Center ribs temporary joined with the spars._
-![ribs overall assembly](/assets/img/posts/empennage/ribs-structure-assembly-1.jpg)
+![ribs overall assembly](/assets/img/posts/empennage/horizontal_stabilizer/ribs-structure-assembly-1.jpg)
 _Ribs temporarily attached to the spars._
+![ribs assembly full](/assets/img/posts/empennage/horizontal_stabilizer/ribs-structure-assembly-2.jpg)
+_All the ribs temporarily attached to the spars until some replacement parts arrive._
 
 ## Center Ribs Riveting
 Some ribs that did not need dimpling such as the center ribs are permanently riveted to the front and rear spars.
-![center ribs riveting 1](/assets/img/posts/empennage/ribs-center-riveting-1.jpg)
+![center ribs riveting 1](/assets/img/posts/empennage/horizontal_stabilizer/ribs-center-riveting-1.jpg)
 _Center ribs riveted to the front and rear spar. Trailing edge view._
-![center ribs riveting 2](/assets/img/posts/empennage/ribs-center-riveting-2.jpg)
+![center ribs riveting 2](/assets/img/posts/empennage/horizontal_stabilizer/ribs-center-riveting-2.jpg)
 _Center ribs riveted to the front and rear spar. Leading edge view._
-![center ribs riveting 3](/assets/img/posts/empennage/ribs-center-riveting-3.jpg)
+![center ribs riveting 3](/assets/img/posts/empennage/horizontal_stabilizer/ribs-center-riveting-3.jpg)
 _Center ribs riveted to the front and rear spar. Leading edge view._
 
 ## Some Brackets Riveting
 Brackets that did not need attachment to the opposite side of the rear spar were permanently riveted to the rear spar.
-![rear spar brackets riveting 1](/assets/img/posts/empennage/rear-spar-brackets-riveting-1.jpg)
+![rear spar brackets riveting 1](/assets/img/posts/empennage/horizontal_stabilizer/rear-spar-brackets-riveting-1.jpg)
 _Some brackets attached to the rear spar. Outboard bracket view (only one side in this image)._
-![rear spar brackets riveting 2](/assets/img/posts/empennage/rear-spar-brackets-riveting-2.jpg)
+![rear spar brackets riveting 2](/assets/img/posts/empennage/horizontal_stabilizer/rear-spar-brackets-riveting-2.jpg)
 _Some brackets attached to the rear spar. Intermediate bracket view (only one side in this image)._
-![rear spar brackets riveting 3](/assets/img/posts/empennage/rear-spar-brackets-riveting-3.jpg)
+![rear spar brackets riveting 3](/assets/img/posts/empennage/horizontal_stabilizer/rear-spar-brackets-riveting-3.jpg)
 _Some brackets attached to the rear spar. Overall view._

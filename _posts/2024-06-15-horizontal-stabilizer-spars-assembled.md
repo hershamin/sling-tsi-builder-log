@@ -13,22 +13,22 @@ For assembling the front spar, one of the key thing in it for countersinking som
 
 ### Countersinking a few holes
 We used the _3.2mm rivet_ that will be used for that part of the skin to measure depth of the countersink tool. You want to start out with less depth, test with that rivet, which should be flushed with the material when inserting in that countersunk hole. Refer to the image below for detail.
-![front spar countersink](/assets/img/posts/empennage/front-spar-countersink.jpg)
+![front spar countersink](/assets/img/posts/empennage/horizontal_stabilizer/front-spar-countersink.jpg)
 _Front spar countersink details._
 
 ### Few rivets not going through
 Occasionally, we had a few rivets such as in the image below which were not going through, so had to use a 3.3mm metric sheet metal drill bit to widen the hole a bit, which is how the rivet went through. Additionally, adding more clecos to the holes around the rivet also helps, which is the preferred method to try first before widening the holes.
-![front spar stuck rivet](/assets/img/posts/empennage/front-spar-widening-holes.jpg)
+![front spar stuck rivet](/assets/img/posts/empennage/horizontal_stabilizer/front-spar-widening-holes.jpg)
 _Rivets for some holes in the front spar not going through._
 
 ### Assembly images
-![front spar parts](/assets/img/posts/empennage/front-spar-parts.jpg)
+![front spar parts](/assets/img/posts/empennage/horizontal_stabilizer/front-spar-parts.jpg)
 _Front spar parts laid out before assembly._
-![front spar temporary assembly](/assets/img/posts/empennage/front-spar-1.jpg)
+![front spar temporary assembly](/assets/img/posts/empennage/horizontal_stabilizer/front-spar-1.jpg)
 _Front spar parts clecoled together before riveting._
-![front spar assembled 1](/assets/img/posts/empennage/front-spar-assembled-1.jpg)
+![front spar assembled 1](/assets/img/posts/empennage/horizontal_stabilizer/front-spar-assembled-1.jpg)
 _Front spar assembled with rivets already pulled._
-![front spar assembled 2](/assets/img/posts/empennage/front-spar-assembled-2.jpg)
+![front spar assembled 2](/assets/img/posts/empennage/horizontal_stabilizer/front-spar-assembled-2.jpg)
 _Front spar assembled with rivets (another view)._
 
 ## Rear Spar
@@ -36,19 +36,19 @@ For assembling the rear spar, it was mostly using clecos and riveting, basically
 
 ### Deburring some holes and edges
 We had to debur some holes and edges where we noticed to some burs while running fingers through them. Refer to the image below for a deburring reference. Also, the _tools_ section has some details on what was used for this process.
-![rear spar deburring](/assets/img/posts/empennage/rear-spar-deburring.jpg)
+![rear spar deburring](/assets/img/posts/empennage/horizontal_stabilizer/rear-spar-deburring.jpg)
 _Rear spar deburring using the hole tool._
 
 ### Assembly images
-![rear spar assembled 1](/assets/img/posts/empennage/rear-spar-assembled-1.jpg)
+![rear spar assembled 1](/assets/img/posts/empennage/horizontal_stabilizer/rear-spar-assembled-1.jpg)
 _Rear spar assembled with rivets._
-![rear spar assembled 2](/assets/img/posts/empennage/rear-spar-assembled-2.jpg)
+![rear spar assembled 2](/assets/img/posts/empennage/horizontal_stabilizer/rear-spar-assembled-2.jpg)
 _Rear spar assembled with rivets, (another view)._
-![rear spar assembled 3](/assets/img/posts/empennage/rear-spar-assembled-3.jpg)
+![rear spar assembled 3](/assets/img/posts/empennage/horizontal_stabilizer/rear-spar-assembled-3.jpg)
 _Rear spar assembled with rivets, (another view)._
-![rear spar assembled 4](/assets/img/posts/empennage/rear-spar-assembled-4.jpg)
+![rear spar assembled 4](/assets/img/posts/empennage/horizontal_stabilizer/rear-spar-assembled-4.jpg)
 _Rear spar assembled with rivets, (another view)._
-![rear spar dad's help](/assets/img/posts/empennage/rear-spar-dad-help.jpg)
+![rear spar dad's help](/assets/img/posts/empennage/horizontal_stabilizer/rear-spar-dad-help.jpg)
 _My parents were here over the weekend, and this was a great experience for my dad, love it!_
 
 ## Tools
