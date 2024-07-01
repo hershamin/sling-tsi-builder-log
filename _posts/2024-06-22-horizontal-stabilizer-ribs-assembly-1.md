@@ -1,5 +1,5 @@
 ---
-title: Horizontal Stabilizer Internal Assembly (Part 1)
+title: Horizontal Stabilizer Ribs Assembly (Part 1)
 description: Attaching some ribs to the spars for the horizontal stabilizer.
 date: 2024-06-22 12:24:00 -0600
 categories: [Empennage]
