@@ -1,5 +1,5 @@
 ---
-title: Empennage Inventory Complete
+title: Empennage Inventory
 description: Inventory for the Empennage kit is complete.
 date: 2024-06-09 18:25:00 -0600
 categories: [Empennage]

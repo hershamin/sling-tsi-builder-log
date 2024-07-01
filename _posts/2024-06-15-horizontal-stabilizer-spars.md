@@ -1,5 +1,5 @@
 ---
-title: Horizontal Stabilizer Spars Assembly Complete
+title: Horizontal Stabilizer Spars Assembly
 description: Assembly for Front and Rear spars for the horizontal stabilizer is complete.
 date: 2024-06-15 18:13:00 -0600
 categories: [Empennage]
