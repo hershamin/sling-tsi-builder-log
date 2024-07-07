@@ -39,7 +39,7 @@ _Counterweight bracket riveted._
 ### Angled Rivets
 A select few rivets came out angled, at a hard to reach place, even with the hand riveter, which is usually not a big deal, since there is redundancy built into the design, and additionally, the brackets are held together, without any gaps in between.
 ![cw bracket angled 1](/assets/img/posts/empennage/elevator/cw-bracket-riveting-1.jpg)
-_Counterweight bracket angled rivet.
+_Counterweight bracket angled rivet._
 
 ### Bolts
 One of the bolts had to be tightened to factory specifications during assembly. The other bolt was left un-tightened as per the build manual. The required torque values are in the introduction assembly manual. Once the bolt was tightened, a torque seal was applied for inspection purposes in the future.
