@@ -2,7 +2,7 @@
 title: Elevator Internal Structure Assembly (Part 1)
 description: Assembly for some of the elevator internal structure is complete.
 date: 2024-06-26 18:43:00 -0600
-categories: [Empennage]
+categories: [Empennage, Elevator]
 tags: [riveting, assembly, tools]
 ---
 

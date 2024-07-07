@@ -2,7 +2,7 @@
 title: Horizontal Stabilizer Ribs Dimpling (Part 1)
 description: Dimpling for horizontal stabilizer ribs using impact dimpler.
 date: 2024-06-21 20:26:00 -0600
-categories: [Empennage]
+categories: [Empennage, Horizontal Stabilizer]
 tags: [dimpling, tools]
 ---
 
