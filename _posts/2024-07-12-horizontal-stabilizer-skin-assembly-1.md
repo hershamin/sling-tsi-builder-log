@@ -1,7 +1,7 @@
 ---
 title: Horizontal Stabilizer skin assembly (Part 1) - Right side
 description: Assembly for horizontal stabilizer right skin is complete.
-date: 2024-07-12 22:38:00 -0600
+date: 2024-07-12 20:38:00 -0600
 categories: [Empennage, Horizontal Stabilizer]
 tags: [riveting, assembly, dimpling]
 ---
