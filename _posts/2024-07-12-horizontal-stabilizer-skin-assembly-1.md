@@ -1,5 +1,5 @@
 ---
-title: Horizontal Stabilizer Skin Assembly (Part 1) - Right side
+title: Horizontal Stabilizer Skin Assembly (Part 1) - Right Side
 description: Assembly for horizontal stabilizer right skin is complete.
 date: 2024-07-12 20:38:00 -0600
 categories: [Empennage, Horizontal Stabilizer]
