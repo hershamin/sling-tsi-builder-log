@@ -50,6 +50,6 @@ _Testing closing and opening after riveting._
 _Installing rivnut in the inspection hatch locking hole._
 
 ## Center Counterweights Service Bulletin
-As described in the photo below, the center counterweights were not added to the elevator. According to a notification from sling aircraft [Notification #0009](/assets/files/Notification-0009-10122021-Removal-of-Elevator-Centre-Balance-Weights.pdf), it helps with the CG and some minor flight stability fixes without the center counterweights, so keeping that in mind, we choose to simple not install them.
+As described in the photo below, the center counterweights were not added to the elevator. According to a notification from sling aircraft [Notification #0009](/assets/files/Notification-0009-10122021-Removal-of-Elevator-Centre-Balance-Weights.pdf), it helps with the CG and some minor flight stability fixes without the center counterweights, which additionally also complies with `FAR 23` regulations, so keeping all that in mind, we choose to simply not install them.
 ![counter-weight-1](/assets/img/posts/empennage/elevator/no-center-counter-weights-sb.jpg)
 _Counterweights not installed according to Notifcation #0009._
