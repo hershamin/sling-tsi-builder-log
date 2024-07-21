@@ -1,5 +1,5 @@
 ---
-title: Vertical Stabilizer Internal Riveting
+title: Vertical Stabilizer Internal Assembly
 description: Vertical stabilizer internal riveting is complete.
 date: 2024-07-20 12:23:00 -0600
 categories: [Empennage, Vertical Stabilizer]
@@ -32,7 +32,7 @@ _Rivnuts installed on some spar doublers._
 _Rivnuts installed on some spar doublers._
 
 ## Ribs Assembly
-Assembling the ribs was pretty straightforward, some holes had to be cleaned up with a 3.2mm drill bit.
+Assembling the ribs was pretty straightforward, some holes had to be cleaned up with a `3.2mm` drill bit.
 ![riveting-1](/assets/img/posts/empennage/vertical_stabilizer/internal-riveting-1.jpg)
 _Internal structure riveting._
 ![riveting-2](/assets/img/posts/empennage/vertical_stabilizer/internal-riveting-2.jpg)
