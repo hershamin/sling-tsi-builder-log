@@ -1,7 +1,7 @@
 ---
 title: Elevator Tip Skins Riveting Complete + Inspection Hatch Added
 description: Riveting for elevator tip skins is complete, and inspection hatch is also added.
-date: 2024-07-20 15:17:00 -0600
+date: 2024-07-19 18:17:00 -0600
 categories: [Empennage, Elevator]
 tags: [riveting, assembly, inspection hatch, service bulletin]
 ---
