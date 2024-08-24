@@ -1,7 +1,7 @@
 ---
 title: Rudder Skin Riveting Part 2 (Final) + Installing Tail Beacon
 description: Rudder skin is completely riveted, and a red tail beacon has also been installed.
-date: 2024-08-24 16:46:00 -0600
+date: 2024-08-24 15:46:00 -0600
 categories: [Empennage, Rudder]
 tags: [riveting, tools, avionics, wiring]
 ---
