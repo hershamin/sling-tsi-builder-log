@@ -50,6 +50,7 @@ _Top skin riveted._
 
 ## Avionics & Tools
 Below are some avionics components, wiring components, and additional tools which were used for this process.
+
 | Name               | Description                                                | Link                                                                                                  |
 |:-------------------|:-----------------------------------------------------------|:------------------------------------------------------------------------------------------------------|
 | Red Tail Beacon    | PSA Enterprise red tail beacon                             | https://www.aircraftspruce.com/catalog/elpages/model927anti.php                                       | 
