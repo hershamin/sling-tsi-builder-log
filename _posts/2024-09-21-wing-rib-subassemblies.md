@@ -81,8 +81,8 @@ _Aileron torque tube bell crank assembly torqued and marker applied._
 ## Rib 14 Assembly
 Rib 14 sub-assembly was pretty straightforward, some holes required cleaning up as usual. There was some dimpling involved as well.
 ![rib-14-1](/assets/img/posts/wing/rib-14-assembly-1.jpg)
-_Rib trailing edge assembly required._
+_Rib trailing edge assembly riveted._
 ![rib-14-2](/assets/img/posts/wing/rib-14-assembly-2.jpg)
-_Rib trailing edge assembly required._
+_Rib trailing edge assembly riveted._
 ![rib-14-3](/assets/img/posts/wing/rib-14-assembly-3.jpg)
 _Rib bottom side dimpled._
