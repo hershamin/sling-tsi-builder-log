@@ -6,7 +6,7 @@ categories: [Wing]
 tags: [assembly, riveting, dimpling]
 ---
 
-We finished sub-assemblies for some of the wing spars that needed that, and in the process we ended up doing it for both the right wing and the left wing. For one of the ribs, the bracket for the flaps was bent in the wrong direction, so the parts department at Torrance has been notified to send a replacement.
+We finished sub-assemblies for some of the wing ribs that needed that, and in the process we ended up doing it for both the right wing and the left wing. For one of the ribs, the bracket for the flaps was bent in the wrong direction, so the parts department at Torrance has been notified to send a replacement.
 
 ## Rib 1 Assembly
 Rib 1 sub-assembly was pretty straightforward, some holes required cleaning up as usual. The flap torque tube bushing rotates within the rib assembly, which I sent a note to sling technical for clarification.
