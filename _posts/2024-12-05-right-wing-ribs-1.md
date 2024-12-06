@@ -56,6 +56,6 @@ _Even bead of epoxy between the bushing and the rib._
 _Even bead of epoxy between the busing and the rib._
 
 ## Tools
-A syringe and a blunt needle was used for applying JB weld between the flap torque tube bushing and bushing assembly on the rib itself.
-* 3ml syringe: https://www.amazon.com/dp/B07BQGVVSC
-* 14ga blunt needle: https://www.amazon.com/dp/B07DZC225B
+A syringe and a blunt needle was used for applying JB weld between the flap torque tube bushing and bushing assembly on the rib itself. 100 pack is fairly cheap and a lot will be used considering this will be needed to fill the rivet holes as well before painting.
+* 3ml syringe: [100 pack on Amazon](https://www.amazon.com/dp/B07BQGVVSC)
+* 14ga blunt needle: [100 pack on Amazon](https://www.amazon.com/dp/B07DZC225B)
