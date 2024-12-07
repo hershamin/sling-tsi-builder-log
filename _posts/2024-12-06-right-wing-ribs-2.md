@@ -1,6 +1,6 @@
 ---
 title: Attaching Right Wing Ribs (Part 2)
-description: Some of the righ wing ribs in the mid section have been attached to the front spar.
+description: Some of the right wing ribs in the mid section have been attached to the front spar.
 date: 2024-12-06 23:12:00 -0600
 categories: [Wing, Right Wing]
 tags: [riveting, assembly]
