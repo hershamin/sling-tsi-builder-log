@@ -3,7 +3,7 @@ title: Attaching Right Wing Ribs (Part 1)
 description: Some of the right wing ribs starting with the root have been attached to the front spar.
 date: 2024-12-05 22:14:00 -0600
 categories: [Wing, Right Wing]
-tags: [riveting, tools]
+tags: [riveting, assembly, tools]
 ---
 
 We installed rib 1 thru 6 for the right wing. Additionally, flap torque tube was also installed. Most of it was straightforward with a slight caveat for the flap torque tube bushings.
