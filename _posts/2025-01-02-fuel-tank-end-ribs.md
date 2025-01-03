@@ -37,8 +37,8 @@ _Assembled fuel level senders with floats._
 
 ## Tools
 We used some new tools for the above steps, as listed below:
-* Pipe Bender: https://www.harborfreight.com/tubing-bender-3755.html
-* Hack Saw: https://www.harborfreight.com/12-in-360-adjustable-hacksaw-58318.html
-* Vice Grip: https://www.amazon.com/Yost-Vises-LV-4-Homeowners-Combination/dp/B00YS401X0/
-* Loctite 577: https://next.henkel-adhesives.com/us/en/products/industrial-sealants/central-pdp.html/loctite-5770/BP000000292261.html 
-* Steel Epoxy: https://www.aircraftspruce.com/catalog/wppages/t88gluegun.php
+* Pipe Bender: [https://www.harborfreight.com/tubing-bender-3755.html](https://www.harborfreight.com/tubing-bender-3755.html)
+* Hack Saw: [https://www.harborfreight.com/12-in-360-adjustable-hacksaw-58318.html](https://www.harborfreight.com/12-in-360-adjustable-hacksaw-58318.html)
+* Vice Grip: [https://www.amazon.com/Yost-Vises-LV-4-Homeowners-Combination/dp/B00YS401X0/](https://www.amazon.com/Yost-Vises-LV-4-Homeowners-Combination/dp/B00YS401X0/)
+* Loctite 577: [https://next.henkel-adhesives.com/us/en/products/industrial-sealants/central-pdp.html/loctite-5770/BP000000292261.html](https://next.henkel-adhesives.com/us/en/products/industrial-sealants/central-pdp.html/loctite-5770/BP000000292261.html)
+* Steel Epoxy: [https://www.aircraftspruce.com/catalog/wppages/t88gluegun.php](https://www.aircraftspruce.com/catalog/wppages/t88gluegun.php)
