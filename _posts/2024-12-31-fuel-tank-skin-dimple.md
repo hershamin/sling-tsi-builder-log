@@ -12,6 +12,8 @@ We also ran into an issue related to a skin tear which is a hole accidentally do
 
 I will email the builder support team to see what can be done about this as well, and post an update on this post.
 
+**Update:** According to builder support it's best to replace the skin, however when looking at the hole and how tiny it is, there is a possibility to clean up the hole to prevent further crack propagation and seal it with pro-seal and a rivet if needed, however there might be part of the skeleton below that hole, so along with sealing the hole with pro-seal, I can also drill through that hole into the skeleton and, rivet it with a 2.4mm rivet, all this in a way will act as a doubler.
+
 
 ## Photos
 ![dimple-1](/assets/img/posts/wing/fuel-tank-skin-dimple-1.jpg)
