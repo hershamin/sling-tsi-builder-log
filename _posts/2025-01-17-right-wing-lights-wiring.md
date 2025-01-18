@@ -1,6 +1,6 @@
 ---
 title: Right Wing Lights Wiring
-Description: Wiring for the right wing lights have been completed.
+description: Wiring for the right wing lights have been completed.
 date: 2025-01-17 22:19:00 -0600
 categories: [Wing, Right Wing]
 tags: [wiring]
