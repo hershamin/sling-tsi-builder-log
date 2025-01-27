@@ -33,7 +33,7 @@ _Upper skin trailing edge shortened rivets._
 _Upper skin riveted._
 
 ## Upper Skin - Root
-The root part of the upper skin was pretty stuff compared to the rest of it, so it took a little muscle power and a lot of clecos to keep it together, while being riveted. The strategy here was to rivet from trailing edge to the leading edge.
+The root part of the upper skin was pretty stiff compared to the rest of it, so it took a little muscle power and a lot of clecos to keep it together, while being riveted. The strategy here was to rivet from trailing edge to the leading edge.
 ![upper-root-1](/assets/img/posts/wing/right/upper-skin-root-1.jpg)
 _Riveting upper root skin._
 ![upper-root-2](/assets/img/posts/wing/right/upper-skin-root-2.jpg)
