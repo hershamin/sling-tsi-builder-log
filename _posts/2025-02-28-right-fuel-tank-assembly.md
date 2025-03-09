@@ -3,7 +3,7 @@ title: Right Fuel Tank Assembly
 description: Right fuel tank has been assembled, riveted, and sealed.
 date: 2025-02-28 23:14:00 -0600
 categories: [Wing, Right Wing]
-tags: [sealing, riveting, assembly]
+tags: [sealing, riveting, assembly, tools]
 ---
 
 We assembled, riveted, and sealed the right wing fuel tank. It was a very long process, and a small test was done in between as well, with some water. The tank will be curing for about a week before doing a pressure test. Also, before riveting the tank, it was temporary clecoed on to the wing in order to clear drill the holes.
