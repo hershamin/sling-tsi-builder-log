@@ -2,6 +2,7 @@
 title: Right Wing Main Spar Reinforcement
 description: While, applying upper and lower skins, we initially forgot to add the reinforcement plates, so had to drill out a good amount of the rivets, and add the plates.
 date: 2025-04-13 16:11:00 -0600
+categories: [Wing, Right Wing]
 tags: [riveting, assembly]
 ---
 
