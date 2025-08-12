@@ -1,7 +1,7 @@
 ---
 title: Left Wing Upper Skin + Landing Light Skin
 description: Left wing upper skin and landing light skin have been riveted to the wing structure.
-date: 2025-08-11 21:19:00 -0600
+date: 2025-08-11 18:19:00 -0600
 categories: [Wing, Left Wing]
 tags: [riveting, assembly, painting]
 ---
