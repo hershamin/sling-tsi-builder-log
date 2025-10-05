@@ -1,7 +1,7 @@
 ---
 title: Left Fuel Tank Assembly
 description: Left fuel tank has been assembled and sealed with proseal, with same exact sequence and procedure as the righ wing.
-date: 2025-10-04 22:19:00 -0600
+date: 2025-10-04 14:19:00 -0600
 categories: [Wing, Left Wing]
 tags: [riveting, assembly, sealing]
 ---
