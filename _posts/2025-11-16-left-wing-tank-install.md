@@ -1,6 +1,6 @@
 ---
 title: Left Wing Tank Installation
-descriptoin: Left tank was installed to the wing structure.
+description: Left tank was installed to the wing structure.
 date: 2025-11-16 14:20:00 -0600
 categories: [Wing, Left Wing]
 tags: [riveting, assembly]
