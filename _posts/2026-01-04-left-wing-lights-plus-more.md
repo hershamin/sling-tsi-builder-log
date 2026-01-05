@@ -2,6 +2,7 @@
 title: Left Wing Lights + Inspection Hatches
 description: Left wing inspection hatches as well as lights have been installed and wired.
 date: 2026-01-04 13:12:00 -0600
+categories: [Wing, Left Wing]
 tags: [wiring, riveting, assembly]
 ---
 
