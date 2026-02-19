@@ -1,7 +1,7 @@
 ---
 title: Rear Fuselage Ribs 5 thru 2
 description: Rear fuselage ribs 5 thru 2 were assembled.
-date: 2026-02-19 21:12:00 -0600
+date: 2026-02-18 23:12:00 -0600
 categories: [Fuselage]
 tags: [riveting, assembly]
 ---
