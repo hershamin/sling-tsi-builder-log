@@ -1,0 +1,18 @@
+{%- assign locs = site.data.avionics.config.locations -%}
+<svg viewBox="0 0 480 200" width="100%" style="max-width:680px" font-family="sans-serif">
+{% include avionics/aircraft-outline.svg %}
+{%- for f in site.data.avionics -%}{%- assign d = f[1] -%}
+{%- for b in d.boxes -%}
+{%- assign base = locs[b.location] -%}
+{%- assign px = b.pos.x | default: 0 -%}{%- assign py = b.pos.y | default: 0 -%}
+{%- assign bx = base.x | plus: px -%}{%- assign by = base.y | plus: py -%}
+  <rect x="{{ bx }}" y="{{ by }}" width="70" height="20" rx="3" fill="#2b3a55" stroke="#7aa2f7"/>
+  <text x="{{ bx | plus: 35 }}" y="{{ by | plus: 14 }}" text-anchor="middle" fill="#cfe" font-size="10">{{ b.name }}</text>
+{%- endfor -%}
+{%- for a in d.antennas -%}
+{%- assign base = locs[a.location] -%}
+  <circle cx="{{ base.x }}" cy="{{ base.y }}" r="6" fill="#ff7f0e"/>
+  <text x="{{ base.x }}" y="{{ base.y | minus: 9 }}" text-anchor="middle" fill="#888" font-size="9">{{ a.name }}</text>
+{%- endfor -%}
+{%- endfor -%}
+</svg>

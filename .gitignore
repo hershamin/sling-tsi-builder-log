@@ -24,3 +24,7 @@ package-lock.json
 # Misc
 _sass/dist
 assets/js/dist
+
+.superpowers/
+
+.avionics-wireviz/

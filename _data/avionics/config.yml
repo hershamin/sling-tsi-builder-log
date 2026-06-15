@@ -1,0 +1,11 @@
+# Global palette + locations shared by all avionics views.
+functions:               # function -> hex color (used by views A/B/D)
+  can:    "#1f77b4"
+  power:  "#d62728"
+  ground: "#111111"
+  serial: "#2ca02c"
+  rf:     "#ff7f0e"
+locations:               # named physical regions; x/y are View-B base coords
+  panel:    { label: "Instrument Panel", x: 150, y: 70 }
+  tailcone: { label: "Tailcone",         x: 380, y: 95 }
+  lwing:    { label: "Left Wing",        x: 90,  y: 150 }

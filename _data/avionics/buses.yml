@@ -1,0 +1,15 @@
+links:
+  # Shared-conductor daisy bus: the SAME two wires thread through both boxes.
+  - id: can_main
+    function: can
+    topology: daisy
+    gauge: 22
+    wires:
+      - { signal: "CAN-H", color: "WH/BU" }
+      - { signal: "CAN-L", color: "WH/OR" }
+    nodes:
+      - { box: pfd, connector: J1, pins: { "CAN-H": 1, "CAN-L": 2 } }
+      - { box: gps, connector: P1, pins: { "CAN-H": 5, "CAN-L": 6 } }
+    components:
+      - { type: resistor, value: "120Ω", across: ["CAN-H", "CAN-L"], at: pfd }
+      - { type: resistor, value: "120Ω", across: ["CAN-H", "CAN-L"], at: gps }
