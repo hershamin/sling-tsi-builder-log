@@ -36,7 +36,6 @@ Deploy: push to default branch → Actions builds and publishes to Pages.
 | `docs/05-auto-posts.md` | Generating a post from a photo batch (the auto-writing workflow) | Inputs, filename→category map, or review steps change | ⭐ |
 | `docs/04-chirpy-syntax.md` | Using Chirpy features beyond plain text + captioned images (callouts, embeds, media_subpath, image options) | Chirpy theme upgrade changes supported syntax | ⭐ |
 | `docs/03-commands.md` | Building, serving, link-checking, or debugging deploy | Build tooling, gems, or CI workflow changes | ⭐ |
-| `docs/06-avionics.md` | Before editing avionics data or diagrams, or running the harness generator | Data schema, view includes, or generator workflow changes | ⭐ |
 
 ## Quick Answers (patterns emerging — update as needed)
 
@@ -45,4 +44,3 @@ Deploy: push to default branch → Actions builds and publishes to Pages.
 | How to add a new build-log post | `docs/02-posts.md` |
 | Where post images go | `docs/02-posts.md` → "Image storage" |
 | Local preview won't start / assets missing | `docs/03-commands.md` |
-| How to add/edit an avionics box or cable | Use the `avionics-data-entry` skill; see `docs/06-avionics.md` |
