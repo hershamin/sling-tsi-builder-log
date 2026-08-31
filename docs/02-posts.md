@@ -15,7 +15,7 @@ This file is the house style — what posts here actually do. For the full set o
 title: Rear Fuselage Bottom Skin
 description: Rear fuselage bottom skin has been assembled.
 date: 2026-05-31 18:11:00 -0600
-categories: [Fuselage]
+categories: [Fuselage, Rear Fuselage]
 tags: [riveting, assembly]
 ---
 ```
@@ -24,7 +24,7 @@ tags: [riveting, assembly]
 - `categories` — **max two, hierarchical**: `[Section]` or `[Section, Subsection]`. Established values:
   - `Empennage` → `Horizontal Stabilizer`, `Elevator`, `Rudder`, `Vertical Stabilizer`
   - `Wing` → `Left Wing`, `Right Wing`
-  - `Fuselage`
+  - `Fuselage` → `Center Fuselage`, `Rear Fuselage`, `Baggage Area`, `Instrument Panel` (kit-wide posts like inventory stay bare `[Fuselage]`)
   - Reuse existing names exactly — they drive category archive pages.
 - `tags` — lowercase, describe the *activity*, not the part (the part is what `categories` is for). Reuse the established set; only coin a new tag when nothing fits. Each tag gets a `/tags/:name/` archive page, so spelling/casing must match exactly. Current vocabulary by frequency:
   - Common: `assembly`, `riveting`, `tools`, `dimpling`
@@ -39,7 +39,7 @@ tags: [riveting, assembly]
 3. Repeated image + italic caption pairs:
 
 ```markdown
-![alt-slug-1](/assets/img/posts/fuselage/rear-bottom-skin-1.jpg)
+![alt-slug-1](/assets/img/posts/fuselage/rear_fuselage/rear-bottom-skin-1.jpg)
 _Caption under the image._
 ```
 
@@ -81,7 +81,7 @@ A first-use tool may instead get inline prose + a photo of the tool (e.g. the im
 Put images under `assets/img/posts/<section>/[<subsection>/]`, mirroring categories:
 
 ```
-assets/img/posts/fuselage/
+assets/img/posts/fuselage/{center_fuselage,rear_fuselage,baggage_area,instrument_panel}/
 assets/img/posts/empennage/{horizontal_stabilizer,elevator,rudder,vertical_stabilizer}/
 assets/img/posts/wing/{left,right}/
 ```
