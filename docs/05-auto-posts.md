@@ -39,4 +39,6 @@ If a keyword doesn't map, ask rather than invent a new category. Pick `tags` (ac
 
 ## Caption + prose honesty
 
-Captions describe what's visible; the intro adds the "why/how" from the gotchas. Never assert torque values, part numbers, or sequence that aren't in the photos or Hersh's notes — ask instead.
+Captions describe what's visible; the intro adds the "why/how" from the gotchas. Ignore the photo background: don't mention or caption shop clutter, tools, cups, brushes or other items that aren't part of the work being logged. Only describe the part being built (a tool appears only when it is the subject, e.g. a first-use tool).
+
+Never assert torque values, part numbers, or sequence that aren't in the photos or Hersh's notes — ask instead.
