@@ -29,7 +29,7 @@ tags: [riveting, assembly]
 - `tags` — lowercase, describe the *activity*, not the part (the part is what `categories` is for). Reuse the established set; only coin a new tag when nothing fits. Each tag gets a `/tags/:name/` archive page, so spelling/casing must match exactly. Current vocabulary by frequency:
   - Common: `assembly`, `riveting`, `tools`, `dimpling`
   - Occasional: `wiring`, `sealing`, `avionics`, `preparation`, `filling`
-  - Rare: `plumbing`, `painting`, `inventory`, `service bulletin`, `inspection hatch`
+  - Rare: `plumbing`, `painting`, `inventory`, `service bulletin`, `inspection hatch`, `autopilot`
   - A post usually carries 1–3 tags.
 
 ## Body pattern
